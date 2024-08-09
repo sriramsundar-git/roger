@@ -1,0 +1,4 @@
+1)$ git clone -to save the local folder
+for example
+         	$git clone "remote link"
+      link--https://www.toolsqa.com/git/git-clone/
