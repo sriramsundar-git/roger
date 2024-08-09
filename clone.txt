@@ -1,5 +1,12 @@
-git clone
+1)git clone
 	if we want to store the local file then we can use
 		$git clone "remote line"
               for more information visit the link
                            https://www.toolsqa.com/git/git-clone/
+
+
+2)git diff
+           if we changed any file like , edit the notepad lines and
+	saved ,then commit.afterthen use the 
+ 		$git diff
+               it will  show the changes in the gitbash
